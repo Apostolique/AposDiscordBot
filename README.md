@@ -1,0 +1,2 @@
+# AposDiscordBot
+Bot for Discord.
